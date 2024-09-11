@@ -2,8 +2,11 @@
 Reference Genome for Bordetella pertussis 
 
 Projects:
+
 Project Athena
+
 Project Bacchus
+
 Project Cronus
 
 Reference sequence version:
