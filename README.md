@@ -1,9 +1,7 @@
-# Bordetella Tohama I Ref
+# Bordetella Tohama II Ref
 Reference Genome for Bordetella pertussis 
 
 *Projects:*
-
-Project Athena
 
 Project Bacchus
 
@@ -11,7 +9,7 @@ Project Cronus
 
 Reference sequence version:
 
-Tohama I
+Tohama II
 
 *Source:*
 
